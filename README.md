@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew Madgy</h1>
+<h1 align="center">Hi 👋, I'm Andrew Madgdy</h1>
 <h3 align="center">A passionate Android & .NET Developer</h3>
 
 <p align="center">
