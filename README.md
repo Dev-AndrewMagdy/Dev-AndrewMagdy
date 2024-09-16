@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Android & .NET Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devandrew45&label=Profile%20views&color=0e75b6&style=flat" alt="devandrew45" />
+  <img src="https://komarev.com/ghpvc/?username=Dev-AndrewMagdy&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-AndrewMagdy" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devandro444@gmail.com)
 
 ---
 
