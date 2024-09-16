@@ -18,7 +18,7 @@ I’m a dedicated Android and .NET developer with a strong passion for building 
 - 🔭 I’m currently working on **[Your Latest Project]**
 - 🌱 I’m currently learning **Jetpack Compose** and advanced **Entity Framework** techniques
 - 💬 Ask me about **Android Development**, **.NET**, **Clean Architecture**, or **MVI Pattern**
-- 📫 How to reach me: [your-email@gmail.com](mailto:your-email@gmail.com)
+- 📫 How to reach me: [your-email@gmail.com](mailto:devandro444@gmail.com)
 
 ---
 
@@ -55,22 +55,22 @@ I’m a dedicated Android and .NET developer with a strong passion for building 
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devandrew45&show_icons=true&theme=dark&locale=en" alt="devandrew45" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devandrew45&show_icons=true&theme=dark&locale=en" alt="Dev-AndrewMagdy" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devandrew45&show_icons=true&locale=en&layout=compact&theme=dark" alt="devandrew45" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devandrew45&show_icons=true&locale=en&layout=compact&theme=dark" alt="Dev-AndrewMagdy" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devandrew45&theme=dracula&no-frame=true&row=1&column=6" alt="devandrew45" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-AndrewMagdy&theme=dracula&no-frame=true&row=1&column=6" alt="Dev-AndrewMagdy" />
 </p>
 
 ---
 
 ### 🔥 My Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devandrew45&theme=dark" alt="devandrew45" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-AndrewMagdy&theme=dark" alt="Dev-AndrewMagdy" />
 </p>
